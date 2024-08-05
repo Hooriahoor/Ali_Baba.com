@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    font-family: Arial;
+    border:border-box;
+}
+
+.navbar{
+    height: 60px;
+    background-color: white;
+    color: black;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-evenly; */
+}
+
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+
+.border{
+    border: 2px solid transparent;
+}
+
+.border:hover{
+    border: 2px solid white;
+}
+
+.logo{
+    background-image: url(my_logo.png);
+    background-size: cover;
+    height: 65px;
+    width: 250px;
+    margin-bottom: 6px;
+}
+
+/* ADDRESS */
+
+.nav-product{
+    height: 60px;
+    width: 20px;
+}
+
+/* Shopping */
+.image{
+    background-image: url();
+}
